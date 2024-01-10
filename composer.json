@@ -1,11 +1,11 @@
 {
-    "name": "spatie/laravel-html",
+    "name": "casimirorocha/laravel-html",
     "description": "A fluent html builder",
     "keywords": [
         "spatie",
         "html"
     ],
-    "homepage": "https://github.com/spatie/laravel-html",
+    "homepage": "https://github.com/casimirorocha/laravel-html",
     "license": "MIT",
     "authors": [
         {
